@@ -28,7 +28,6 @@ executing==0.8.3
 fonttools==4.33.3
 funcy==1.17
 future==0.18.2
-gensim==4.2.0
 gitdb==4.0.9
 GitPython==3.1.27
 graphviz==0.20
@@ -57,7 +56,6 @@ nbclient==0.5.13
 nbconvert==6.4.4
 nbformat==5.2.0
 nest-asyncio==1.5.4
-nltk==3.7
 notebook==6.4.10
 numexpr==2.8.1
 numpy==1.22.3
@@ -74,11 +72,10 @@ prompt-toolkit==3.0.28
 protobuf==3.19.4
 psutil==5.9.0
 pure-eval==0.2.2
-pyarrow==7.0.0
+#pyarrow==7.0.0
 pycparser==2.21
 pydeck==0.7.1
 Pygments==2.11.2
-pyLDAvis==3.3.1
 Pympler==1.0.1
 pyparsing==3.0.7
 pyrsistent==0.18.1
@@ -91,7 +88,7 @@ pyzmq==22.3.0
 regex==2022.4.24
 requests==2.27.1
 scikit-learn==1.0.2
-scipy==1.8.0
+#scipy==1.8.0
 seaborn==0.11.2
 semver==2.13.0
 Send2Trash==1.8.0
